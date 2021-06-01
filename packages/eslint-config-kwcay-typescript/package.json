@@ -1,33 +1,23 @@
 {
   "name": "eslint-config-kwcay-typescript",
-  "license": "MIT",
-  "version": "0.0.1",
   "description": "Kwahu & Cayes' ESLint config with TypeScript support",
-  "homepage": "https://github.com/kwcay/eslint-config-kwcay-typescript",
+  "version": "0.0.2",
+  "license": "MIT",
+  "homepage": "https://github.com/kwcay/eslint/tree/release/packages/eslint-config-kwcay-typescript",
   "main": "index.js",
-  "scripts": {
-    "format": "prettier --write .",
-    "lint": "eslint ."
-  },
   "dependencies": {
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-kwcay": "^0.0.1"
-  },
-  "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.26.0",
-    "eslint": "^7.27.0",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.23.4",
-    "prettier": "2.3.0",
-    "typescript": "^4.3.2"
+    "eslint-config-airbnb-typescript": "12.3.1",
+    "eslint-config-kwcay": "0.0.4"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwcay/eslint-config-kwcay-typescript"
+    "url": "https://github.com/kwcay/eslint"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
-    "kwcay"
+    "kwcay",
+    "kwahu",
+    "cayes"
   ]
 }

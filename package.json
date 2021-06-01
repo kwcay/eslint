@@ -4,7 +4,8 @@
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint .",
-    "publish-kwcay": "yarn publish packages/eslint-config-kwcay --frozen-lockfile"
+    "publish-kwcay": "yarn publish packages/eslint-config-kwcay",
+    "publish-typescript": "yarn publish packages/eslint-config-kwcay-typescript"
   },
   "devDependencies": {
     "eslint": "^7.27.0",
