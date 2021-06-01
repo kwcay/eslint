@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-kwcay",
+  "description": "Kwahu & Cayes' ESLint config",
+  "version": "0.0.3",
+  "license": "MIT",
+  "homepage": "https://github.com/kwcay/eslint-config-kwcay",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwcay/eslint"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "kwcay",
+    "kwahu",
+    "cayes"
+  ]
+}
