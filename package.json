@@ -4,8 +4,10 @@
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint .",
-    "publish-kwcay": "yarn publish packages/eslint-config-kwcay",
-    "publish-typescript": "yarn publish packages/eslint-config-kwcay-typescript"
+    "qa": "yarn format && yarn lint --fix",
+    "publish-rules": "yarn qa && yarn publish packages/eslint-config-kwcay-rules",
+    "publish-kwcay": "yarn qa && yarn publish packages/eslint-config-kwcay",
+    "publish-typescript": "yarn qa && yarn publish packages/eslint-config-kwcay-typescript"
   },
   "devDependencies": {
     "eslint": "^7.27.0",

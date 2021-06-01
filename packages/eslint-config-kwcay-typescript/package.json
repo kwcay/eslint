@@ -1,13 +1,13 @@
 {
   "name": "eslint-config-kwcay-typescript",
   "description": "Kwahu & Cayes' ESLint config with TypeScript support",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "license": "MIT",
   "homepage": "https://github.com/kwcay/eslint/tree/release/packages/eslint-config-kwcay-typescript",
   "main": "index.js",
   "dependencies": {
     "eslint-config-airbnb-typescript": "12.3.1",
-    "eslint-config-kwcay": "0.0.4"
+    "eslint-config-kwcay-rules": "0.0.2"
   },
   "repository": {
     "type": "git",

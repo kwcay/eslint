@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-kwcay-rules",
+  "description": "Kwahu & Cayes' ESLint rules",
+  "version": "0.0.2",
+  "license": "MIT",
+  "homepage": "https://github.com/kwcay/eslint/tree/release/packages/eslint-config-kwcay-rules",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-plugin-import": "~2.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwcay/eslint"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "kwcay",
+    "kwahu",
+    "cayes"
+  ]
+}
