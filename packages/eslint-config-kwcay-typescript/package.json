@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-kwcay-typescript",
   "description": "Kwahu & Cayes' ESLint config with TypeScript support",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "homepage": "https://github.com/kwcay/eslint/tree/release/packages/eslint-config-kwcay-typescript",
   "main": "index.js",

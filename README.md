@@ -2,10 +2,10 @@
 
 A [shareable ESLint config](http://eslint.org/docs/developer-guide/shareable-configs) for [Kwahu & Cayes](https://kwcay.co).
 
-|                         |                                                          |
-| ----------------------- | -------------------------------------------------------- |
-| Shared ESLint rules | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-rules) |
-| For JavaScript projects | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay) |
+|                         |                                                                     |
+| ----------------------- | ------------------------------------------------------------------- |
+| Shared ESLint rules     | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-rules)      |
+| For JavaScript projects | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay)            |
 | For TypeScript project  | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-typescript) |
 
 > Work in progress.
