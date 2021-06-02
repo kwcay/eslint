@@ -1,3 +1,7 @@
 {
-  "extends": ["./packages/eslint-config-kwcay/index.js", "prettier"]
+  "extends": [
+    "eslint-config-airbnb-base",
+    "./packages/eslint-config-kwcay-rules/index.js",
+    "prettier"
+  ]
 }

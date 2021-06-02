@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-kwcay-react-typescript",
   "description": "Kwahu & Cayes' ESLint config with TypeScript and React support",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "homepage": "https://github.com/kwcay/eslint/tree/release/packages/eslint-config-kwcay-react-typescript",
   "main": "index.js",
@@ -10,6 +10,7 @@
     "eslint-config-kwcay-rules": "0.0.2"
   },
   "peerDependencies": {
+    "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.23.1",

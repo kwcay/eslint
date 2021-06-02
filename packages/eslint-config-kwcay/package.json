@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-kwcay",
   "description": "Kwahu & Cayes' ESLint config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "MIT",
   "homepage": "https://github.com/kwcay/eslint/tree/release/packages/eslint-config-kwcay",
   "main": "index.js",
