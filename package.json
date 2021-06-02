@@ -7,7 +7,8 @@
     "qa": "yarn format && yarn lint --fix",
     "publish-rules": "yarn qa && yarn publish packages/eslint-config-kwcay-rules",
     "publish-kwcay": "yarn qa && yarn publish packages/eslint-config-kwcay",
-    "publish-typescript": "yarn qa && yarn publish packages/eslint-config-kwcay-typescript"
+    "publish-typescript": "yarn qa && yarn publish packages/eslint-config-kwcay-typescript",
+    "publish-react-typescript": "yarn qa && yarn publish packages/eslint-config-kwcay-react-typescript"
   },
   "devDependencies": {
     "eslint": "^7.27.0",

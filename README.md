@@ -1,14 +1,11 @@
-![npm](https://img.shields.io/npm/v/eslint-config-kwcay)
-
-A [shareable ESLint config](http://eslint.org/docs/developer-guide/shareable-configs) for [Kwahu & Cayes](https://kwcay.co).
+Shareable [ESLint configs](http://eslint.org/docs/developer-guide/shareable-configs) for [Kwahu & Cayes](https://kwcay.co).
 
 |                         |                                                                     |
 | ----------------------- | ------------------------------------------------------------------- |
-| Shared ESLint rules     | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-rules)      |
-| For JavaScript projects | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay)            |
-| For TypeScript project  | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-typescript) |
-
-> Work in progress.
+| [Shared ESLint rules](packages/eslint-config-kwcay-rules)     | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-rules)      |
+| [For JavaScript projects](packages/eslint-config-kwcay) | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay)            |
+| [For TypeScript project](packages/eslint-config-kwcay-typescript)  | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-typescript) |
+| [For React/TypeScript project](packages/eslint-config-kwcay-react-typescript)  | ![npm](https://img.shields.io/npm/v/eslint-config-kwcay-react-typescript) |
 
 Todos:
 
@@ -19,4 +16,4 @@ Todos:
 
 [MIT license](LICENSE).
 
-[Copyright (c) Kwahu & Cayes](https://kwcay.co). All rights reserved.
+Copyright © [Kwahu & Cayes](https://kwcay.co). All rights reserved.
